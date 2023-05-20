@@ -4,6 +4,12 @@
 16岁在读高中喵  
 ~~比较社恐QwQ~~  
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=KaguraiYoRoy&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
+
+### 咱的设备
+![ThinkPad Carbon Gen8](https://img.shields.io/badge/ThinkPad%20Carbon%20Gen8-FF0000?style=flat-square&logo=lenovo&logoColor=FFFFFF&labelColor=FF0000)  
+![Xiaomi Mi8 Pro](https://img.shields.io/badge/Xiaomi%20Mi8%20Pro-f86600?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=f86600)
+
 ### 正在学习 🌱
 AndroidROM适配  
 Android内核  
@@ -11,7 +17,7 @@ C++ PHP Linux
 
 ### 想要找我聊天...？💬
 Email: [iyoroy@qq.com](mailto:iyoroy@qq.com)  
-Telegram：[iYoRoy Kagura](https://t.me/iYoRoy)
+Telegram：[iYoRoy Kagura](https://t.me/iYoRoy)  
 或者加咱的闲聊群：773412939
 
 <!--
