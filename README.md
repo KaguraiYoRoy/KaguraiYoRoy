@@ -1,17 +1,17 @@
 ### Hi there 👋
-这里是神楽悠苼  
-是一只猫猫 *（Furry好耶）*  
-16岁在读高中喵  
+这里是神楽悠苼 
+是一只猫猫 *（Furry好耶）* 
+16岁在读高中喵 
 ~~比较社恐QwQ~~  
 
 ### 咱的设备
-![ThinkPad Carbon Gen8](https://img.shields.io/badge/ThinkPad%20Carbon%20Gen8-FF0000?style=flat-square&logo=lenovo&logoColor=FFFFFF&labelColor=FF0000)  
+![ThinkPad Carbon Gen8](https://img.shields.io/badge/ThinkPad%20Carbon%20Gen8-FF0000?style=flat-square&logo=lenovo&logoColor=FFFFFF&labelColor=FF0000)
 ![Xiaomi Mi8 Pro](https://img.shields.io/badge/Xiaomi%20Mi8%20Pro-f86600?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=f86600)
 
 ### 正在学习 🌱
-AndroidROM适配  
-Android内核  
-C++ PHP Linux  
+AndroidROM适配 
+Android内核 
+C++ PHP Linux 
 
 ### 想要找我聊天...？💬
 Email: [iyoroy@qq.com](mailto:iyoroy@qq.com)  
