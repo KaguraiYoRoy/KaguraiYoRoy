@@ -5,7 +5,7 @@
 ~~比较社恐QwQ~~  
 
 ### 咱的设备
-![ROG Flow Z13 2022](https://img.shields.io/badge/ROG%20Flow%20Z13%202022-000000?style=flat-square&logo=asus&logoColor=FF0000&labelColor=000000)
+[![ROG Flow Z13 2022](https://img.shields.io/badge/ROG%20Flow%20Z13%202022-000000?style=flat-square&logo=asus&logoColor=FF0000&labelColor=000000)](https://rog.asus.com.cn/laptops/rog-flow/rog-flow-z13-2022-series)
 ![ThinkPad Carbon Gen8](https://img.shields.io/badge/ThinkPad%20Carbon%20Gen8-FF0000?style=flat-square&logo=lenovo&logoColor=FFFFFF&labelColor=FF0000)
 ![Xiaomi Mi8 Pro](https://img.shields.io/badge/Xiaomi%20Mi8%20Pro-f86600?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=f86600)
 
