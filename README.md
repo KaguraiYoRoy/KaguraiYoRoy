@@ -9,12 +9,11 @@
 [![ROG Flow Z13 2022](https://img.shields.io/badge/ROG%20Flow%20Z13%202022-000000?style=flat-square&logo=asus&logoColor=FF0000&labelColor=000000)](https://rog.asus.com.cn/laptops/rog-flow/rog-flow-z13-2022-series)
 ![ThinkPad Carbon Gen8](https://img.shields.io/badge/ThinkPad%20Carbon%20Gen8-FF0000?style=flat-square&logo=lenovo&logoColor=FFFFFF&labelColor=FF0000)
 
-![Xiaomi Mi 8 Pro](https://img.shields.io/badge/Xiaomi%20Mi8%20Pro-bbbbbb?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=bbbbbb)（已损坏）
+![Xiaomi Mi 8 Pro （已损坏）](https://img.shields.io/badge/Xiaomi%20Mi8%20Pro-bbbbbb?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=bbbbbb)
 
 ### 正在学习 🌱
-AndroidROM适配 
-Android内核 
-C++ PHP Linux 
+高中理科
+None.
 
 ### 想要找我聊天...？💬
 Email: [iyoroy@qq.com](mailto:iyoroy@qq.com)  
