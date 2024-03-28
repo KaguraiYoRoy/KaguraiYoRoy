@@ -13,7 +13,11 @@
 ![Pixel 3](https://img.shields.io/badge/Pixel%203-00C000?style=flat-square&logo=google&logoColor=FFFFFF&labelColor=00C000)
 
 ### 正在学习 🌱
-高中理科
+* 高中理科
+* Android Kernel
+* Android ROM
+* Cpp PHP Python
+* Linux
 
 ### 想要找我聊天...？💬
 Email: [iyoroy@qq.com](mailto:iyoroy@qq.com)  
