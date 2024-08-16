@@ -9,7 +9,6 @@
 * iPad 5
 * Xiaomi MI 8 UD
 * Huawei P30
-* Pixel 3
 
 ### 正在学习 🌱
 * 高中理科
