@@ -18,7 +18,7 @@
 * Linux
 
 ### 想要找我聊天...？💬
-Email: [iyoroy@qq.com](mailto:iyoroy@qq.com)  
+Email: [neko@yori.moe](mailto:neko@yori.moe)  
 Telegram：[@iYoRoy](https://t.me/iYoRoy)  
 
 <!--
