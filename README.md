@@ -2,20 +2,15 @@
 这里是神楽悠苼 
 是废物OAO 啥都不会
 是INFP猫猫 *（Furry好耶）* 
-17岁在读高中喵 
+17岁高三牲
 ~~比较社恐QwQ~~  
 
 ### 咱的设备
 * iPad 5
-* Xiaomi MI 8 UD
 * Huawei P30
 
 ### 正在学习 🌱
 * 高中理科
-* Android Kernel
-* Android ROM
-* Cpp PHP Python
-* Linux
 
 ### 想要找我聊天...？💬
 Email: [neko@yori.moe](mailto:neko@yori.moe)  
