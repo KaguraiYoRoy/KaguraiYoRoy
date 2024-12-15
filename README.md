@@ -1,3 +1,5 @@
+「愿世间万物都能被温柔以待」
+
 ### Hi there 👋
 这里是神楽悠苼 
 是废物OAO 啥都不会
@@ -11,6 +13,8 @@
 
 ### 正在学习 🌱
 * 高中理科
+
+
 
 ### 想要找我聊天...？💬
 Email: [neko@yori.moe](mailto:neko@yori.moe)  
