@@ -11,6 +11,8 @@
 
 ### 咱的设备/Devices
 * iPad 5
+* Samsung Galaxy S24
+* Xiaomi 8 UD
 * Huawei P30
 
 ### 正在学习/Learning 🌱
