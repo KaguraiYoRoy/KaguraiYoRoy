@@ -5,6 +5,9 @@
 是INFP猫猫&18岁高三牲。  
 ~~比较社恐QwQ~~  
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaguraiYoRoy&theme=dark&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=KaguraiYoRoy&show_icons=true&theme=dark&count_private=true)
+
 ### 语言/Language
 中文/Chinese：100%    
 英语/English：(not) fluent
